@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#a6d6d4">
+<TextView
+    android:id="@+id/text_fname"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/first_name"
+    android:layout_marginTop="20sp"
+    android:layout_marginLeft="10sp"
+    android:layout_marginRight="10sp"
+    android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/text_lname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/last_name"
+        android:layout_marginTop="20sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:textSize="30sp"/>
+    <TextView
+        android:id="@+id/text_companyname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/company_name"
+        android:layout_marginTop="20sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/text_designation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:hint="@string/designation"
+        android:textSize="30sp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"/>
+
+</LinearLayout>

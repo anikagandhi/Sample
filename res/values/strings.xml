@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="company_name">Company Name </string>
+    <string name="designation">Designation</string>
+    <string name="registered">Registered</string>
+    <string name="registration_form">Registration Form</string>
+</resources>
